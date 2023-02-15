@@ -5,6 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Result](#result)
 
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -23,7 +24,8 @@
 - TensorFlow
 - Keras
 
-
+## Result
+- The final validation accuracy came out to be close to 81% and the training accuracy was close to 90%
 
 ## Contact
 Created by [@aveekroy10] - feel free to contact me!
